@@ -10,7 +10,9 @@ Repositorio académico de la asignatura **Modelado de Sistemas Fisiológicos (IB
 **Institución:** Tecnológico Nacional de México / Instituto Tecnológico de Tijuana  
 **Asignatura:** Modelado de Sistemas Fisiológicos  
 **Programa:** Ingeniería Biomédica  
-**Estudiante:** [Nombre completo] · [Número de control] · [Correo institucional]
+**Estudiante:** Kevin Rodriguez Padilla  · 22210428 · l2221042@tijuana.tecnm.mx
+
+]
 
 **Repositorio de la asignatura:** https://github.com/DrPaulValle/MSF-IBF1020
 
@@ -71,7 +73,7 @@ Modelar y simular el sistema cardiovascular mediante el modelo Windkessel de cua
 - Simular las respuestas en lazo abierto ante una misma señal de excitación.
 - Diseñar y sintonizar dos controladores PID independientes.
 - Comparar las respuestas controladas con la referencia normotensa.
-- Verificar las simulaciones mediante Python y documentar los resultados.
+- Verificar las simulaciones mediante Python.
 
 ## Introducción al modelo Windkessel
 
