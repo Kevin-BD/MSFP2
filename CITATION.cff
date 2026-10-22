@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 2: Sistema Cardiovascular'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Kevin '
+    family-names: 'Rodriguez Padilla '
+    email: 22210428@tijuana.tecnm.mx
+    affiliation: 'TecNM / IT Tijuana '
+repository-code: 'https://github.com/Kevin-BD/MSFP2'
+keywords:
+  - modelo Windkessel
+  - sistema cardiovascular
+  - distensibilidad arterial
+  - controlador PID
+  - hipotensión
+  - hipertensión
+  - MATLAB
+  - Simulink
+  - ' Simscape Electrical'
+  - Python
+  - simulación in silico
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-10-22'
