@@ -1,5 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=KevinDarioITT/MSFP2)
-
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Kevin-BD/MSFP2)
 # Práctica 2 — Modelado y control del sistema cardiovascular mediante el modelo Windkessel
 
 Repositorio académico de la asignatura **Modelado de Sistemas Fisiológicos**, correspondiente al programa de **Ingeniería Biomédica** del Tecnológico Nacional de México / Instituto Tecnológico de Tijuana. La práctica integra modelado matemático, analogías eléctricas de sistemas fisiológicos, análisis de estabilidad, diseño de controladores PID, simulación computacional *in silico* y verificación cruzada entre plataformas.
